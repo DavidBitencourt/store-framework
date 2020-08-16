@@ -16,7 +16,10 @@
   },
   "sku-selector": {
     "props": {
-      "hideImpossibleCombinations": false
+      "showVariationsLabels": true,
+      "showValueNameForImageVariation": true,
+      "showVariationsErrorMessage": true,
+      "initialSelection": "empty"
     }
   },
   "product-brand": {
